@@ -1,4 +1,4 @@
-# Galadriel.CSS Navbar Showcase
+# Galadriel.CSS Lamp Showcase
 
 This showcase of a lamp was meticulously crafted using Galadriel.CSS, an enchanting JavaScript library designed to empower developers in creating captivating and dynamically responsive user interfaces.
 
